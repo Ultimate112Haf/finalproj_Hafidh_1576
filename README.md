@@ -1,16 +1,19 @@
-# Perbandingan emisi yang dikeluarkan
-#### berdasarkan transportasi pilihan antara 2 titik yang sama
+# Deteksi Lokasi dan polusi
+#### Berdasarkan objek dan pemandangan yang ada di gambar.
 
 ## Yang Diperlukan
 - Discord
 - Pythorch
-- 1
-- 2
-- 3
+- semua dependencies YoloV5
+- sisanya cari tau sendiri
 
-## Untuk pencarian informasi
+## Untuk pencarian lokasi.
 
-- Parsing, crawling, dan scraping
+- Classification Teachable Machine
+- Model dilatih dari total 100+100 gambar urban dan forest
 
-## fitur unik:
-- pencarian dengan voice search, tanpa ketik.
+## Untuk pencarian objek.
+
+- Menggunakan 400+400 pohon dan kolam air sampel untuk yoloV5.
+- di training dengan google colab selama 1 jam dengan ephocs 200.
+- kurang akurat
