@@ -2,12 +2,11 @@
 #### berdasarkan transportasi pilihan antara 2 titik yang sama
 
 ## Yang Diperlukan
-- Dasar-dasar desain web
-- HTML + CSS
-- Flask templat
-- Jinja variabel
-- Perutean web
-- GitHub + IDE
+- Discord
+- Pythorch
+- 1
+- 2
+- 3
 
 ## Untuk pencarian informasi
 
